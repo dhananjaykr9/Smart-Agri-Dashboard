@@ -1,0 +1,7 @@
+streamlit
+pandas
+firebase-admin
+requests
+plotly
+pytz
+streamlit-autorefresh
