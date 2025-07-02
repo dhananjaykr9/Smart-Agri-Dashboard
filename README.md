@@ -37,8 +37,8 @@ This project showcases a **real-time Smart Agriculture Monitoring System** built
 
 ```
 ESP32 → Firebase Realtime DB → Streamlit Dashboard → Live Alerts & Visualization
-                             ↓
-                  Auto-Refresh + Weather API
+                                       ↓
+                          Auto-Refresh + Weather API
 ```
 
 ---
