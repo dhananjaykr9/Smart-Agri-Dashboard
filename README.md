@@ -10,7 +10,8 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/dhananjaykr9/Smart-Agri-Dashboard)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dhananjaykr9/Smart-Agri-Dashboard)
-![License](https://img.shields.io/github/license/dhananjaykr9/Smart-Agri-Dashboard)<br>
+![License](https://img.shields.io/github/license/dhananjaykr9/Smart-Agri-Dashboard)
+
 
 ---
 
